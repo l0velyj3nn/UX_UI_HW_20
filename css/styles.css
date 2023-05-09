@@ -11051,6 +11051,8 @@ footer.footer .social-link:hover {
   z-index: 1;
 }
 .portfolio-item .caption .caption-content {
+  background-color:rgb(0,0,0);opacity:0.8;
+  padding: 2%;
   color: #fff;
   margin: auto 2rem 2rem;
 }
